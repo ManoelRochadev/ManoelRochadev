@@ -4,7 +4,7 @@
 
 - 🔥 web Developer
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, TypeScript**
+- 💬 Ask me about **JavaScript, NodeJS, HTML, CSS, React, TypeScript**
 
 <br><br>
 
